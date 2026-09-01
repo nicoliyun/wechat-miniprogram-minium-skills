@@ -1,0 +1,20 @@
+# 本项目自身（skill 的编排、脚本、模板）不产生运行产物
+dist/
+*.skill
+.DS_Store
+Thumbs.db
+
+# 打包脚本产生的临时目录
+build/
+*.zip
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

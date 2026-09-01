@@ -1,0 +1,12 @@
+{
+  "project_path": "__PROJECT_PATH__",
+  "dev_tool_path": "__DEV_TOOL_PATH__",
+  "platform": "ide",
+  "debug_mode": "info",
+  "test_port": 9420,
+  "auto_relaunch": true,
+  "enable_app_log": true,
+  "enable_network_panel": true,
+  "auto_capture": "auto",
+  "outputs": "outputs"
+}
